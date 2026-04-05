@@ -1,4 +1,4 @@
-package lk.srk.backend.cropservice.jwt;
+package lk.srk.backend.apigateway.filter;
 
 import org.springframework.cloud.gateway.filter.GlobalFilter;
 import org.springframework.cloud.gateway.filter.GatewayFilterChain;
